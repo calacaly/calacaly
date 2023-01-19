@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on ...
-- 📫 My email is calacaly@foxmail.com
+- 📫 My email is calacaly@yandex.com
 
 <!---
 calacaly/calacaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
