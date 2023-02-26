@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calacaly
 - 👀 I’m interested in reading
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning kubernetes and golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email is calacaly@yandex.com
 
